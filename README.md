@@ -96,11 +96,9 @@ to estimate downside exposure, evaluate diversification benefits, forecast volat
 ```text
 portfolio-risk-measurement-and-var-analysis/
 │
-├── data/                # Historical market datasets
 ├── excel-model/         # Portfolio risk modeling framework
-├── outputs/             # Charts and analytical outputs
 ├── presentation/        # Project presentation materials
-├── report/              # Full quantitative risk analysis report
+├── executive-summary/   # Full quantitative risk analysis report
 └── README.md
 ```
 
