@@ -68,6 +68,14 @@ The analysis also evaluates how different volatility assumptions materially impa
 
 ---
 
+## Volatility Modeling Preview
+
+The project implements both EWMA and GARCH(1,1) volatility forecasting frameworks to evaluate volatility persistence, market clustering effects and dynamic downside risk estimation under changing market conditions.
+
+![EWMA & GARCH Volatility Modeling](excel-model/ewma-garch-volatility-modeling.png)
+
+---
+
 ## Key Results
 
 - Portfolio diversification reduced aggregate portfolio risk by approximately 36% relative to the undiversified sum of standalone asset VaRs
